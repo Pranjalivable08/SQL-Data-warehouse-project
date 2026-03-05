@@ -1,7 +1,7 @@
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
------------------------------------
+---
 ## Projects Requirements 🚀
 
 ### Building the datawarehouse (Data Engineering)
@@ -54,12 +54,13 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
-☕ Stay Connected
+
+#### ☕ Stay Connected
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 YouTube LinkedIn Website Newsletter PayPal Join
 
-All Courses and their materials are completely free, and all I ask is your support through subscribing, liking, and commenting on my channel. Your engagement means the world to me and It help the channel!
+### All Courses and their materials are completely free, and all I ask is your support through subscribing, liking, and commenting on my channel. Your engagement means the world to me and It help the channel!
 
 ✅ SQL Full Course: Course Link | Download Materials | GIT Repo
 
@@ -76,9 +77,11 @@ All Courses and their materials are completely free, and all I ask is your suppo
 ✅ Tableau HR Project: Course Link | Download Materials | Public
 
 ✅ ChatGPT: Course Link | Download Materials
+---
 
-🛡️ License
+#### 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+---
 
-🌟 About Me
-Hi there! I'm Baraa Khatib Salkini, also known as Data With Baraa. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+#### 🌟 About Me
+Hi there! I'm Pranjali Vable, also known as Data With Baraa. I’m an IT professional and learning new skills every day in IT.
